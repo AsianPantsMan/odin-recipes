@@ -1,0 +1,1 @@
+Just a small thing to work on to practice git usage, following the Odin Project foundations curriculum.
